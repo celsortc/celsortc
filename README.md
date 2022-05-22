@@ -1,8 +1,8 @@
 ### Hey, I'm Celso 
 
-Front-end Developer with passion for coding 
+Front-end Developer with passion for coding and user experience.
 
-Actually studying JavaScript
+Actually studying JavaScript.
 ##
 
 <div align="center">
