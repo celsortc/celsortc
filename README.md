@@ -5,6 +5,8 @@ Front-end Developer with passion for coding and user experience.
 Actually studying JavaScript.
 ##
 
+![Status](./profile-night-green.svg)
+
 <div align="center">
   <a href="https://github.com/celsortc">
   <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=celsortc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
