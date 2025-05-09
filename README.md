@@ -5,7 +5,7 @@ Front-end Developer with passion for coding and user experience.
 Actually studying JavaScript.
 ##
 
-![Status](./profile-night-green.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">
   <a href="https://github.com/celsortc">
