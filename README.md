@@ -13,11 +13,7 @@ Actually studying JavaScript.
   <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsortc&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML Logo" height="30" width="40" margin-top: 10px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+
   
  ##
   
