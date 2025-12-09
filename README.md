@@ -1,8 +1,8 @@
-### Hey, I'm Celso 
+### Olá, meu nome é Celso Toledo 
 
-Front-end Developer with passion for coding and user experience.
+Trabalho com desenvolvimento front-end há cerca de um ano, e estou constantemente buscando aprender novas tecnologias.
 
-Actually studying JavaScript.
+Atualmente estudando Javascript.
 ##
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
