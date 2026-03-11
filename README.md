@@ -44,17 +44,4 @@ Atualmente estudando React.
   />
 
 </p>
-
-
 <!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
- 
- 
-
-
-  
- ##
-  
-
-
-
-
