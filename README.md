@@ -30,21 +30,22 @@ Atualmente estudando React.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=celsortc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celsortc&theme=dark" alt="Top Languages by Commit" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" alt="Profile details" />
+        </p>
+      </td> 
+  </table>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsortc&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
 <!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
