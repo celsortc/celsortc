@@ -24,13 +24,13 @@ Atualmente estudando React.
                  
 </div>
 <br>
-<br>
+
 
 ##
 
-### 📊 Estatísticas
+###  📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
@@ -39,11 +39,13 @@ Atualmente estudando React.
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" />
       </td>
-      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" alt="Profile details" />
-        </p>
-      </td> 
+      </tr>
+    <tr>
+    <td colspan="2" align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" />
+    </td>
+  </tr>
+      
   </table>
 </div>
 
