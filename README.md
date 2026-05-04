@@ -20,6 +20,7 @@ Atualmente estudando React.
   <img align="left" alt="CSS Logo"  width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
   <img align="left" alt="JavaScript Logo" width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Python Logo" width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Figma Logo" width="30" style="padding-right=10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
                  
 </div>
