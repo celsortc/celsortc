@@ -31,7 +31,6 @@ Atualmente estudando React.
 
 ###  📊 Estatísticas
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -41,7 +40,7 @@ Atualmente estudando React.
   src="https://github-readme-stats.vercel.app/api?username=celsortc&show_icons=true&theme=dark&hide_border=true"
   height="180"
 />
-      </td>
+      <!-- </td>
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" />
       </td>
@@ -49,7 +48,7 @@ Atualmente estudando React.
     <tr>
     <td colspan="2" align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" />
-    </td>
+    </td> -->
   </tr>
       
   </table>
