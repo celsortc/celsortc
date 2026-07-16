@@ -31,6 +31,8 @@ Atualmente estudando React.
 
 ###  📊 Estatísticas
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
