@@ -35,7 +35,10 @@ Atualmente estudando React.
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celsortc&theme=dark" alt="Top Languages by Commit" />
+        <img
+  src="https://github-readme-stats.vercel.app/api?username=celsortc&show_icons=true&theme=dark&hide_border=true"
+  height="180"
+/>
       </td>
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" />
