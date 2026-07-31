@@ -29,7 +29,7 @@ Atualmente estudando React.
 
 ##
 
-###  📊 Estatísticas
+<!-- ###  📊 Estatísticas
 
 
 <div align="left">
@@ -52,7 +52,7 @@ Atualmente estudando React.
   </tr>
       
   </table>
-</div>
+</div> 
 
 
 <!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
