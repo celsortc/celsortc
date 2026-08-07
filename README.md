@@ -4,6 +4,7 @@
 **`Desenvolvedor FullStack`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=celsortc&color=43C55E&style=for-the-badge&label=VISITAS)
+
 </div>
 Me chamo Celso Toledo, tenho 25 anos e um ano de experiência com desenvolvimento front-end, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
@@ -29,33 +30,28 @@ Atualmente estudando React.
 </div>
 <br>
 
-
 ##
 
-<!-- ###  📊 Estatísticas
-
+### 📊 Estatísticas
 
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img
-  src="https://github-readme-stats.vercel.app/api?username=celsortc&show_icons=true&theme=dark&hide_border=true"
-  height="180"
-/>
-      <!-- </td>
-      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026" />
+      </td>
+      <td align="center" valign="center" style="border: none; padding: 0 0 0 8px;">
+        <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" /> -->
+        <img src="https://github-stats-extended.vercel.app/api?username=celsortc&commits_year=2026&theme=dark"/>
       </td>
       </tr>
     <tr>
     <td colspan="2" align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" />
-    </td> -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark"/>
+    </td>
   </tr>
-      
-  </table>
-</div> 
 
+  </table>
+</div>
 
 <!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
