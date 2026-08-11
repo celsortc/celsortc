@@ -32,16 +32,15 @@ Atualmente estudando React.
 
 ##
 
-### 📊 Estatísticas
+## Estatísticas 📊
 
-<div align="left">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<!-- <div align="left">
+  <table border="none" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026" />
+      <td align="center" valign="center" style="border: none; padding: 0 8px 0 0;">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026&layout=compact" />
       </td>
       <td align="center" valign="center" style="border: none; padding: 0 0 0 8px;">
-        <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celsortc&theme=dark" alt="Stats" /> -->
         <img src="https://github-stats-extended.vercel.app/api?username=celsortc&commits_year=2026&theme=dark"/>
       </td>
       </tr>
@@ -52,6 +51,20 @@ Atualmente estudando React.
   </tr>
 
   </table>
+</div> -->
+
+<div align="center">
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026&layout=compact" />
+  
+  
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=celsortc&commits_year=2026&theme=dark" />
+
+  <br>
+
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" />
+
 </div>
 
 <!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
