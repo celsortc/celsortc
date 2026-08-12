@@ -59,7 +59,7 @@ Atualmente estudando React.
   
   
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=celsortc&commits_year=2026&theme=dark" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=celsortc&theme=dark&commits_year=2026" />
 
   <br>
 
