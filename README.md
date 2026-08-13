@@ -55,15 +55,15 @@ Atualmente estudando React.
 
 <div align="center">
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026&layout=compact" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026&layout=compact&cache_seconds=21600&hide_border=true" />
   
   
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=celsortc&theme=dark&commits_year=2026" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=celsortc&theme=dark&commits_year=2026&cache_seconds=21600&hide_border=true" />
 
   <br>
 
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark&cache_seconds=21600" />
 
 </div>
 
