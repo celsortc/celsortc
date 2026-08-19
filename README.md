@@ -11,7 +11,10 @@ Me chamo Celso Toledo, tenho 25 anos e um ano de experiência com desenvolviment
 Atualmente estudando React.
 
 <div>
-  <a href="https://www.linkedin.com/in/celsotoledo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/celsotoledo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://celsotoledo.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-43C55E?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ##
