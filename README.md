@@ -35,7 +35,8 @@ Atualmente estudando React.
 ### Back-end ⚙️ 
 
 <div style="display: inline-block">
-  <img align="left" alt="Python Logo" width="60" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+  <img align="left" alt="Python Logo" width="50" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+  <img align="left" alt="Java Logo" width="50" style="padding-right=10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 
