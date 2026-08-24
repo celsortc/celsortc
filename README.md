@@ -17,44 +17,34 @@ Atualmente estudando React.
   </a>
 </div>
 
-##
 
-### 🚀 Linguagens e Tecnologias
 
-<div style="display: inline-block"><br>
+## Linguagens e Tecnologias 🚀
+### Front-end 💻
 
-  <img align="left" alt="HTML Logo" width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS Logo"  width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
-  <img align="left" alt="JavaScript Logo" width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Python Logo" width="30" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Figma Logo" width="30" style="padding-right=10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-          
-                 
+<div>
+  <img align="left" alt="HTML Logo" width="50" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS Logo"  width="50" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+  <img align="left" alt="JavaScript Logo" width="50" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Figma Logo" width="50" style="padding-right=10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
+
+<br>
 <br>
 
-##
+### Back-end ⚙️ 
+
+<div style="display: inline-block">
+  <img align="left" alt="Python Logo" width="60" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+</div>
+
+
+<br>
+<br>
+<br>
+
 
 ## Estatísticas 📊
-
-<!-- <div align="left">
-  <table border="none" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="center" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=celsortc&theme=dark&commits_year=2026&layout=compact" />
-      </td>
-      <td align="center" valign="center" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=celsortc&commits_year=2026&theme=dark"/>
-      </td>
-      </tr>
-    <tr>
-    <td colspan="2" align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsortc&theme=dark"/>
-    </td>
-  </tr>
-
-  </table>
-</div> -->
 
 <div align="center">
 
