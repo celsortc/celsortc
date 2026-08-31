@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=celsortc&color=43C55E&style=for-the-badge&label=VISITAS)
 
 </div>
-Me chamo Celso Toledo, tenho 25 anos e um ano de experiência com desenvolvimento front-end, atualmente cursando Análise e Desenvolvimento de Sistemas.
+Me chamo Celso Toledo, tenho 25 anos de idade e 1+ ano de experiência com desenvolvimento front-end, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 Atualmente estudando React.
 
